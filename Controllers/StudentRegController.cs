@@ -15,7 +15,8 @@ namespace StudentRegistrationDemo.Controllers
             new Student{Id = 100,Name="Geraald Nimooy",age=14},
              new Student{Id = 101,Name="Jeramy Weeler",age=16},
               new Student{Id = 102,Name="Gerry Newlyr",age=15},
-             new Student{Id = 10,Name="Jimy Wxlr",age=16},
+             new Student{Id = 103,Name="Jimy Wxlr",age=16},
+             new Student{Id = 104,Name="Nixon cassidy",age=13}
         };
         // GET: api/StudentReg
         public List<Student> Get()
